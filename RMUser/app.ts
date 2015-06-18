@@ -1,1 +1,1 @@
-﻿var TodoModule = angular.module("todoModule", []);
+﻿var todoModule = angular.module("todoModule", []);

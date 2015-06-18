@@ -1,0 +1,6 @@
+C:\Workspaces\RMUserDemo\RMUser\bin\RMUser.dll.config
+C:\Workspaces\RMUserDemo\RMUser\bin\RMUser.dll
+C:\Workspaces\RMUserDemo\RMUser\bin\RMUser.pdb
+C:\Workspaces\RMUserDemo\RMUser\obj\Debug\RMUser.csprojResolveAssemblyReference.cache
+C:\Workspaces\RMUserDemo\RMUser\obj\Debug\RMUser.dll
+C:\Workspaces\RMUserDemo\RMUser\obj\Debug\RMUser.pdb
